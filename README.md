@@ -13,7 +13,7 @@
 
 ### Nossa tarefa de casa seria montar foi criar um banco de dados novo (database) e uma coleção com um nome pertinente, de acordo com os dados e tema escolhidos. Vamos ver?
 
-![gif "Will Smith"](img/giphy000.gif)
+![gif "Will Smith"](img/willSmith.gif)
 
 
 
